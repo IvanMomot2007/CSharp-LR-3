@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DurakCore/DurakCore.csproj" />
+  <Project Path="DurakTests/DurakTests.csproj" />
+</Solution>
